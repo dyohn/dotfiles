@@ -1,0 +1,17 @@
+# Emacs backup files
+*~
+\#*\#
+
+# Emacs elpa/melpa downloads and folder contents
+emacs/.emacs.d/auto-save-list
+emacs/.emacs.d/elpa
+emacs/.emacs.d/custom-themes
+emacs/.emacs.d/lisp
+emacs/.emacs.d/melpa
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
